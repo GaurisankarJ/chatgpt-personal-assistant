@@ -21,7 +21,7 @@ This is a Discord chatbot that uses OpenAI's GPT-3.5-turbo model to provide resp
 1. Clone the repository:
 ```
 git clone https://github.com/GaurisankarJ/chatgpt-personal-assistant
-cd discord-chatbot
+cd chatgpt-personal-assistant
 ```
 
 2. Install the required packages:
