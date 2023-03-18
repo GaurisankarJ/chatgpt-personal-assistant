@@ -88,7 +88,7 @@ bot.on('messageCreate', async (message) => {
     }
 
     // Split the message into smaller chunks
-    const messageChunks = splitText(reply, 200);
+    const messageChunks = splitText(reply, 1800);
 
     // Send message chunks one by one
     for (const chunk of messageChunks) {
